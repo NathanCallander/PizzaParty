@@ -1,0 +1,16 @@
+// Gallery page
+
+<Header>
+<navbar>
+<gallery>
+Would be planning to have a rotating gallery of different types off pizzas
+
+<image>
+<p>Name and description<p>
+
+The gallery would rotate to the next image on a timer but would also have arrows for user to click
+
+The images would be in a folder stored in the repo or in a database or image container
+
+<Footer>
+
